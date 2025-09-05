@@ -62,5 +62,3 @@ created by chirag sharma
 
 
 
-```bash
-pip install opencv-python mediapipe playsound==1.2.2 numpy
